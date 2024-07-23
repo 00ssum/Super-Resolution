@@ -1,7 +1,6 @@
 # Super-Resolution
 
 1. Super-Resolution- 가상환경 설정법.pdf 처럼 수행하시면 됩니다.
-2. 
 
 학습 결과 확인방법
 - Result폴더에는 생성된 이미지가 저장됩니다
